@@ -1,4 +1,4 @@
-Calculadora de IMC (ReactJS)
+# Calculadora de IMC (ReactJS)
 
 Projeto desenvolvido como atividade prática do curso da EBAC.
 Aplicação em ReactJS que calcula o IMC (Índice de Massa Corporal) com base na altura e no peso informados, exibindo o resultado e a classificação segundo a tabela da OMS.
